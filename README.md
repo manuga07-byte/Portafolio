@@ -32,4 +32,4 @@ Aplicación publicada mediante GitHub Pages.
 
 ## Autor
 
-Tu Nombre
+Manuel Perez
